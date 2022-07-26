@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+(还没写，先挂一会哈哈哈）
+
 <!--
 **Mimanyou/Mimanyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
